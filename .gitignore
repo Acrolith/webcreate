@@ -1,0 +1,12 @@
+# ides
+.idea
+.vscode
+
+
+# Python
+venv
+/build
+/dist/
+/*.egg-info
+*.pyc
+__pycache__
